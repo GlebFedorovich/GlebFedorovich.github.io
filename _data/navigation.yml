@@ -19,8 +19,8 @@ main:
   - title: "Research projects"
     url: /rp/
 
-  - title: "Publications"
-  url: /publications/
+  # - title: "Publications"
+  # url: /publications/
     
   # - title: "Guide"
   #   url: /markdown/
