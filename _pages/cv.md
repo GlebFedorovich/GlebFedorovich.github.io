@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Physics GPA 4.96/5.0, 2017-2021, ITMO University, Russia 
+* M.S. in Physics, 2021-2023 GPA 5.72/6.0, ETH Zurich, Switzerland
 
 Work experience
 ======
