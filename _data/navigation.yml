@@ -20,7 +20,7 @@ main:
     url: /rp/
 
   - title: "Publications"
-  url: /publication_list/
+  url: /publications_list/
     
   # - title: "Guide"
   #   url: /markdown/
