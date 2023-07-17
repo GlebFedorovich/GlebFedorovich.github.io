@@ -6,4 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi all! My name is Gleb and I am a theoretical physitist interested in quantum physics and computational methods :) 
+Hi all! My name is Gleb, nice to meet you on my personal webpage :)
+
+
