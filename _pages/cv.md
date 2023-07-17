@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 - June 2023: Teaching Assistant, ETH Zurich
+  * Master course "Quantum Electronics" given by Steven Johnson
+  * Duties included: every week seminars, homework corrections
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022 - January 2023: Teaching Assistant, ETH Zurich
+  * Bachelor course "Physics II" given by Jerome Faist
+  * Duties included: every week seminars, homework corrections, exam preparation
+    
+* July 2019 - Present: Juniour researcher, ITMO University 
   
 Skills
 ======
