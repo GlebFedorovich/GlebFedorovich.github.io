@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Gleb Fedorovich"
   avatar           : "photo_github.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "30.10.1998 Saint-Petersburg, Russia
+                      "
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
